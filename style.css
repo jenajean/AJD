@@ -1,0 +1,46 @@
+/*
+@font-face {
+    font-family: "rabiohead";
+	src: url('rabiohead.eot?#iefix') format('embedded-opentype'),
+	url('rabiohead.ttf') format("truetype");
+}
+*/
+
+body {
+	font-family: helvetica;
+}
+
+#outer_content {
+	width 960px;
+	margin: 0 auto;
+}
+
+#header {
+	margin: 0 auto;
+}
+
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration:none;
+}
+
+h1 {
+	margin: 25 auto;
+	text-align: center;
+}
+
+#big_logo {
+	width:467px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+#footer {
+	margin: 50px 0 0 700px;
+
+}
